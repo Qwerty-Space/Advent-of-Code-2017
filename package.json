@@ -1,0 +1,19 @@
+{
+  "name": "aoc2017",
+  "version": "1.0.0",
+  "description": "Probably stupider than yours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qwerty-Space/Advent-of-Code-2017.git"
+  },
+  "author": "Qwerty-Space",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Qwerty-Space/Advent-of-Code-2017/issues"
+  },
+  "homepage": "https://github.com/Qwerty-Space/Advent-of-Code-2017#readme"
+}
